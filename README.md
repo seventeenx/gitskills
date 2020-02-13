@@ -1,2 +1,0 @@
-# gitskills
-demo git project
